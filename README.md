@@ -7,19 +7,20 @@
 
 
 
+============================================================================================================================================================================================
 
 
 | #    | Wallet name         | Address             | Hunter |  | Partner | Update |
 |:-----|:--------------------|:--------------------|:-------|:-|:--------|:-------|
-| 1 | [12600.30130883.dat](https://github.com/phrutis/LostWallets/blob/main/Others/12600.30130883.csv) | [252 addresses](https://github.com/phrutis/LostWallets/blob/main/Others/12600.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
-| 2 | [10000.00586203.dat](https://github.com/phrutis/LostWallets/blob/main/Others/10000.00586203.csv) | [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50% | :lock: | :three: | 09.06.2022 |
-| 3 | [7941.06429735.dat](https://github.com/phrutis/LostWallets/blob/main/Others/7941.06429735.csv) | [15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX](https://www.blockchain.com/btc/address/15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 1 | [12600.30130883.dat] | [252 addresses] | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 2 | [10000.00586203.dat] | [1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK](https://www.blockchain.com/btc/address/1LfV1tSt3KNyHpFJnAzrqsLFdeD2EvU1MK) | 50% | :lock: | :three: | 09.06.2022 |
+| 3 | [7941.06429735.dat] | [15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX](https://www.blockchain.com/btc/address/15Z5YJaaNSxeynvr6uW6jQZLwq3n1Hu6RX) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 4 | ♻️4000.dat | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50% | :lock: | :two: | 09.06.2022 |
 | 5 | 4000.00222015.dat | [18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM](https://www.blockchain.com/btc/address/18eY9oWL2mkXCL1VVwPme2NMmAVhX6EfyM) | 50% | :lock: | :two:  | 03.06.2022 |
-| 6 | 2026.46416785.dat | [14 addresses](https://github.com/phrutis/LostWallets/blob/main/Others/2026.46416785.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
-| 7 | 1550.dat | [31 addresses](https://github.com/phrutis/LostWallets/blob/main/Others/1550.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 6 | 2026.46416785.dat | [14 addresses] | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 7 | 1550.dat | [31 addresses] | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 8 | 1545.dat | [12yqUYtcCvDgiDgzJTT7DsSCoSifwYavhH](https://www.blockchain.com/btc/address/12yqUYtcCvDgiDgzJTT7DsSCoSifwYavhH) + [440](https://www.blockchain.com/btc/address/1PUfK6ecmFiV1sf7TppFfdCsTZw6PyK8Xu) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
-| 9 | 1500.dat | [15 addresses](https://github.com/phrutis/LostWallets/blob/main/Others/1500.txt) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
+| 9 | 1500.dat | [15 addresses] | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 10 | 1434.80211957.dat | [1D6iTqvbgcqenbkKNsFsi9zN21KH4KPPEa](https://www.blockchain.com/btc/address/1D6iTqvbgcqenbkKNsFsi9zN21KH4KPPEa) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 11 | 🚀1240.00169821.dat | [1FmLMbBLwJrnm3giK69WtKrH9yQZqecDjD](https://www.blockchain.com/btc/address/1FmLMbBLwJrnm3giK69WtKrH9yQZqecDjD) + [420](https://www.blockchain.com/btc/address/1DEfMuUGRhvoQE7cxgds3nYjRZzzhfJ9jc) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
 | 12 | 1128.77038444.dat | [12At4GGP8J5p4MtdjNy1SPSkqKEM1mw2FS](https://www.blockchain.com/btc/address/12At4GGP8J5p4MtdjNy1SPSkqKEM1mw2FS) | 50% | :lock: | :keycap_ten: | 08.09.2022 |
@@ -721,4 +722,5 @@
 | 416 | wallet_127.dat | $bitcoin$64$dede82c6449d5e1638a8e3a26db5c8e73368d139ff7d6fb7b9fc1ce82120f35c$16$fc83158ec483e01a$216173$2$00$2$00 |
 | 417 | wallet_128.dat | $bitcoin$64$f83d2783f238d5fde0e082e20686ff85cb92bb0737da214e2e39fd61b828bf6c$16$adfbb9cfa83e9cf6$135318$2$00$2$00 |
 | 418 | wallet_129.dat | $bitcoin$64$df4c79be5283afb92b4b4e3cc7fb6dc5095ffda8b00faad738215e82e8a0e66a$16$24695a31d8ee3e09$293209$2$00$2$00 |
+
 
